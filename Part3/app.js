@@ -34,7 +34,7 @@ console.log("Unary Plus: " + (+c)); //10
 console.log("Unary Minus: " + (-c)); //-10
 console.log("Increment: " + (++c)); //11
 console.log("Decrement: " + (--c)); //10
-
+//additionally we can use typeof and instanceof as unary operators
 //Ternary Operator
 let age = 18;
 let canVote = (age >= 18) ? "Yes, can vote" : "No, cannot vote";

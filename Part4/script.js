@@ -48,7 +48,7 @@ function gradeScore(score){
 }
 
 
-//rock paper scissors game
+//rock paper scissors game.
 function rps(player1, player2){
     if(player1 === player2){
         return "It's a Tie!";
