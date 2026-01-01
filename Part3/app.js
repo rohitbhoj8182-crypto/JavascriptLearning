@@ -46,3 +46,23 @@ console.log("Type of x: " + typeof x); //boolean
 console.log("Type of canVote: " + typeof canVote); //string
 
 a instanceof Number; //false because a is a primitive number, not an object
+
+
+//questions
+
+//1. Write a program to calculate the sum, difference, product, and division of two numbers.
+let num1 = 20;
+let num2 = 4;
+console.log("sum: " + (num1 +num2))
+console.log("difference: " + (num1 -num2))
+console.log("product: " + (num1 *num2))
+console.log("division: " + (num1 /num2))
+
+//2. Write a program to check if a number is even or odd using the modulus operator.
+
+let userName ="kamal";
+let userPassword ="12345";
+
+let check = userName === "kamal" && userPassword ==="12345" ? "login successful" : "login failed";
+
+console.log(check);
