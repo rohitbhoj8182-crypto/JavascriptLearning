@@ -52,3 +52,4 @@ console.log("rohit" * 2); // NaN
 //truthy and falsy values
 //falsy values: false, 0, "", null, undefined, NaN .
 //save other values are truthy values
+//[part 2]
