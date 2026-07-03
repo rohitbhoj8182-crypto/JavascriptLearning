@@ -2,7 +2,7 @@
 // // // //1. select element from html
 // // // //2. make chanes html css attribute
 
-
+// js learning completed
 // // // //Slecting Element
 // // // let head = document.getElementById("head");
 // // // console.log(head)
